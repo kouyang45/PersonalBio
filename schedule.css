@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+}
+h1 {
+  text-align: left;
+  text-decoration: underline;
+  font-weight: bold;
+  }
+tr {
+  text-align: left;
+  width: 80px;
+  background-color: rgb(128, 179, 255);
+  /* Color Palette adapted from: http://www.colourlovers.com/color/80B3FF/derie   */
+  }
+body{
+  background-color: rgb(169, 18, 47);
+  /* Color Palette adapted from: http://www.colourlovers.com/color/A2122F/Cherry  */
+}
+td:hover {
+  background-color: #723F6A;
+  color: rgb(184,232,255);
+}
